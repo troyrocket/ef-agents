@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="EF Agents" width="800">
+  <img src="assets/banner.svg" alt="EF Agents" width="800">
 </p>
 
 A Multi-Agent system that evaluates startup founder candidates for [Entrepreneurs First (EF)](https://www.joinef.com/). Two AI agents independently assess a candidate, then engage in a 100-round structured debate to reach a final verdict — all streamed live in your terminal.
