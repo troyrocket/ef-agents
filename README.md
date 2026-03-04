@@ -23,40 +23,13 @@
 
 ## How It Works
 
-```
-                    LinkedIn / Twitter / GitHub
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-            ┌──────────────┐   ┌──────────────┐
-            │    ALISA     │   │     BOB      │
-            │              │   │              │
-            │ Founder Edge │   │ Taste &      │
-            │   Analyst    │   │ Network      │
-            │              │   │   Analyst    │
-            │  Track Record│   │  Info Diet   │
-            │  Domain Exp. │   │  Thought Led.│
-            │  Execution   │   │  Network Qlt.│
-            │  Market Fit  │   │  Builder Sig.│
-            └──────┬───────┘   └──────┬───────┘
-                   └────────┬─────────┘
-                            ▼
-                ┌───────────────────────┐
-                │     ROUND TABLE       │
-                │                       │
-                │  100-Round Debate     │
-                │  Real-time Streaming  │
-                │  Conviction Tracking  │
-                │  Phase Transitions    │
-                └───────────┬───────────┘
-                            ▼
-                ┌───────────────────────┐
-                │   EF-STYLE PPT MEMO   │
-                │                       │
-                │  5 slides, auto-gen   │
-                │  Score bars & verdict │
-                └───────────────────────┘
-```
+**Step 1 — Data Collection.** Drop in a LinkedIn, Twitter, and/or GitHub URL. EF Agents scrapes the candidate's public profile, repos, followers, and activity.
+
+**Step 2 — Independent Evaluation.** Two AI agents analyze the data in parallel. Alisa scores founder edge from career signals. Bob scores taste and network from social and builder signals. Neither sees the other's result.
+
+**Step 3 — Round Table.** The agents enter a 100-round structured debate. They challenge each other's scores, pressure-test red flags, and negotiate toward a verdict — all streaming live in your terminal with real-time conviction tracking.
+
+**Step 4 — PPT Memo.** A 5-slide EF-branded PowerPoint is auto-generated: cover, Alisa's scores, Bob's scores, debate highlights, and final verdict. Ready for the investment committee.
 
 ## The Agents
 
